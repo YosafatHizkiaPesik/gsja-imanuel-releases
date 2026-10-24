@@ -16,3 +16,5 @@ Aplikasi resmi **Sistem Jemaat GSJA Imanuel**: agenda acara, renungan, kartu jem
 Aplikasi akan **memberi tahu otomatis** bila ada versi baru.
 
 Semua versi & catatan perubahan: [Releases](https://github.com/YosafatHizkiaPesik/gsja-imanuel-releases/releases)
+
+[Kebijakan Privasi](PRIVASI.md)
